@@ -21,7 +21,7 @@
 title: Daniel
 email: dterrero@stumail.jccc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Junior developer with experience with Java, php, Python, Django, and Boot!
+  Developer with experience with Java, Java Boot, php, Python,and Django.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
