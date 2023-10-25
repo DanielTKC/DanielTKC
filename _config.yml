@@ -29,7 +29,7 @@ github_username:  DanielTKC
 
 # Build settings
 #theme: cayman
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
